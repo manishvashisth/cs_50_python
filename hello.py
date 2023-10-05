@@ -14,6 +14,14 @@ name = input("What's your name? ")
 # print("hello,", end = " ")
 # print(name)
 print("hello,", name, sep = " what ")
+# positional parameters
+# named parameters
+# print("hello, "friend"")
+# print('hello, "friend"')
+# \ escape charater
+print("hello, \"friend\"")
+# special string
+print(f"hello, {name}")
 
 
 

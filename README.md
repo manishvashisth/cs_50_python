@@ -6,3 +6,8 @@
 #      : print; / forward slash
 #      : print; special string, eg: f
 # day 4:
+# hello.py
+# str.py
+# int.py
+# interactive terminal REPL
+# calculator.py
